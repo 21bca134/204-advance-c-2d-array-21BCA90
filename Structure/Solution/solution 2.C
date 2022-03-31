@@ -1,6 +1,6 @@
 /*Write a program to create structure of 5 student marksheet.
 Date : 24-02-2022
-Name : laxman sirvi*/
+Name : harsh panchal*/
 #include<stdio.h>
 #include<conio.h>
 struct Marksheet
